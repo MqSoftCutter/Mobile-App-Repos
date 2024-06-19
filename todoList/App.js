@@ -7,7 +7,7 @@ export default function App() {
      
      {/*Today's Tasks */}
       <View style ={styles.taskWrapper}>
-    <Text style>{styles.sectionTitle} Today's Tasks & Test</Text>
+    <Text style>{styles.sectionTitle} Today's Tasks & Testing the intaial App</Text>
       </View>
     </View>
   );
